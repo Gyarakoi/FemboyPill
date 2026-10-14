@@ -22,3 +22,19 @@ LICENSE（首次建立）
 
 Gyarakoi
 
+
+
+# 修订日期：
+
+2026-10-14
+
+## 修订文件：
+
+README.md（添加英文版自述文件跳转）
+
+README.en.md（首次建立）
+
+## 修订人：
+
+Gyarakoi
+
