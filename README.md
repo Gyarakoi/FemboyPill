@@ -1,3 +1,5 @@
+[简体中文](./README.md) | [English](./README.en.md)
+
 # 凉澜丸（Femboy Pill）
 
 ![大蜜丸](./pics/damiwan.JPG)
